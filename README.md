@@ -24,3 +24,6 @@ I varied the epochs of the model from 15 to 50 with a difference of 5 epochs eac
 -->Second experiment on feature vectors:(Present in the Feature Vector Experiment File)
 
 Feature vectors consist of the properties of each element. The vectors in the atom_init file were removed for each property one at a time and the training error of the model was analyzed.
+
+
+ALL THE FILES CONSISTING THE MATERIALS DATA AND FEATURE VECTORS IS GIVEN IN MASTERS BRANCH
