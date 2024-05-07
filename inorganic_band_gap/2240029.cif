@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MgMn2(BO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49269117
+_cell_length_b   5.88907529
+_cell_length_c   6.49059922
+_cell_angle_alpha   47.55877346
+_cell_angle_beta   41.81149538
+_cell_angle_gamma   42.49222841
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMn2(BO3)2
+_chemical_formula_sum   'Mg1 Mn2 B2 O6'
+_cell_volume   123.88756797
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.72295443  0.42467560  0.55795339  1
+  Mn  Mn1  1  0.01345516  0.00698281  0.00912026  1
+  Mn  Mn2  1  0.30326518  0.59228852  0.46335898  1
+  B  B3  1  0.36215525  0.17648031  0.25588101  1
+  B  B4  1  0.66330507  0.85062340  0.77153851  1
+  O  O5  1  0.35100464  0.87200140  0.52054145  1
+  O  O6  1  0.91684565  0.54896883  0.79784624  1
+  O  O7  1  0.37914250  0.87553221  0.99677210  1
+  O  O8  1  0.63832788  0.17356084  0.00953829  1
+  O  O9  1  0.09229752  0.46705809  0.25782741  1
+  O  O10  1  0.70010371  0.14277999  0.50247936  1

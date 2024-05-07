@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MgSbOF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.63694124
+_cell_length_b   5.78074597
+_cell_length_c   4.06828800
+_cell_angle_alpha   69.39747928
+_cell_angle_beta   89.99999597
+_cell_angle_gamma   98.08486367
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSbOF3
+_chemical_formula_sum   'Mg1 Sb1 O1 F3'
+_cell_volume   100.91720865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.41496989  0.77242368  0.61378816  1
+  Sb  Sb1  1  0.00463700  0.06590666  0.96704667  1
+  O  O2  1  0.36377103  0.91756802  0.04121599  1
+  F  F3  1  0.79819566  0.69554652  0.15222674  1
+  F  F4  1  0.99924421  0.93429569  0.53285215  1
+  F  F5  1  0.32989621  0.42675943  0.78662029  1

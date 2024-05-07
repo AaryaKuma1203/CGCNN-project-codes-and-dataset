@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce2ThO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72326629
+_cell_length_b   6.72326629
+_cell_length_c   6.72326629
+_cell_angle_alpha   146.38629067
+_cell_angle_beta   131.78757673
+_cell_angle_gamma   60.05558350
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2ThO6
+_chemical_formula_sum   'Ce2 Th1 O6'
+_cell_volume   124.29239761
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.66780810  0.66780810  0.00000000  1
+  Ce  Ce1  1  0.33219190  0.33219190  0.00000000  1
+  Th  Th2  1  0.00000000  -0.00000000  0.00000000  1
+  O  O3  1  0.74509169  0.50000000  0.24509169  1
+  O  O4  1  0.42128175  0.16885128  0.25243048  1
+  O  O5  1  0.08357820  0.83114872  0.25243048  1
+  O  O6  1  0.25490831  0.50000000  0.75490831  1
+  O  O7  1  0.91642180  0.16885128  0.74756952  1
+  O  O8  1  0.57871825  0.83114872  0.74756952  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Y2MgMo2(ClO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29716266
+_cell_length_b   6.29716150
+_cell_length_c   6.90605155
+_cell_angle_alpha   83.36180009
+_cell_angle_beta   83.36180420
+_cell_angle_gamma   68.06935960
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2MgMo2(ClO4)2
+_chemical_formula_sum   'Y2 Mg1 Mo2 Cl2 O8'
+_cell_volume   251.55350331
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.81513403  0.81513403  0.07726262  1
+  Y  Y1  1  0.23344736  0.23344736  0.88254797  1
+  Mg  Mg2  1  0.52195926  0.52195926  0.02550598  1
+  Mo  Mo3  1  0.32706778  0.32706778  0.31697101  1
+  Mo  Mo4  1  0.64327348  0.64327348  0.65969149  1
+  Cl  Cl5  1  0.98446590  0.98446590  0.76305797  1
+  Cl  Cl6  1  0.07430369  0.07430369  0.23250982  1
+  O  O7  1  0.85619975  0.50866108  0.87151045  1
+  O  O8  1  0.15983986  0.53491144  0.11156872  1
+  O  O9  1  0.46798001  0.46798001  0.75131210  1
+  O  O10  1  0.25528663  0.25528663  0.56546961  1
+  O  O11  1  0.50929076  0.50929076  0.31714056  1
+  O  O12  1  0.75401197  0.75401197  0.43311352  1
+  O  O13  1  0.53491144  0.15983986  0.11156872  1
+  O  O14  1  0.50866108  0.85619975  0.87151045  1

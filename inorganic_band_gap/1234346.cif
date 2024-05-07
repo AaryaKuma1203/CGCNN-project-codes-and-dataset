@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CaCo6(OF5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77682981
+_cell_length_b   4.78858543
+_cell_length_c   11.44085040
+_cell_angle_alpha   94.21025632
+_cell_angle_beta   94.11344109
+_cell_angle_gamma   93.76821160
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCo6(OF5)2
+_chemical_formula_sum   'Ca1 Co6 O2 F10'
+_cell_volume   259.65868772
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.24817000  0.24882000  0.51354600  1
+  Co  Co1  1  0.91942000  0.91916900  0.01005900  1
+  Co  Co2  1  0.09490000  0.09618300  0.25406700  1
+  Co  Co3  1  0.96236900  0.96112500  0.74979400  1
+  Co  Co4  1  0.49953700  0.50034400  0.16172500  1
+  Co  Co5  1  0.43545800  0.43438100  0.89014600  1
+  Co  Co6  1  0.64670100  0.64804000  0.43839900  1
+  O  O7  1  0.36653900  0.36744500  0.32245700  1
+  O  O8  1  0.63573000  0.63572100  0.01798900  1
+  F  F9  1  0.19528400  0.78217600  0.15056900  1
+  F  F10  1  0.11415000  0.70160100  0.85661100  1
+  F  F11  1  0.27666900  0.77150800  0.49783600  1
+  F  F12  1  0.22026700  0.22055500  0.00597200  1
+  F  F13  1  0.25006800  0.24917000  0.71529600  1
+  F  F14  1  0.78130200  0.78551800  0.60778200  1
+  F  F15  1  0.79417200  0.79735200  0.30206800  1
+  F  F16  1  0.78105600  0.19589200  0.15029400  1
+  F  F17  1  0.70245100  0.11316500  0.85693200  1
+  F  F18  1  0.77020100  0.28016900  0.49846000  1

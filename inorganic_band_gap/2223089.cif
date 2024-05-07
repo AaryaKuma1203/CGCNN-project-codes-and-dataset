@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba2LuMgBiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78034680
+_cell_length_b   6.26391216
+_cell_length_c   6.95104584
+_cell_angle_alpha   56.42168415
+_cell_angle_beta   54.72566575
+_cell_angle_gamma   57.98910844
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LuMgBiO6
+_chemical_formula_sum   'Ba2 Lu1 Mg1 Bi1 O6'
+_cell_volume   190.92323410
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.69122762  0.73927654  0.70129851  1
+  Ba  Ba1  1  0.30877238  0.26072346  0.29870149  1
+  Lu  Lu2  1  -0.00000000  -0.00000000  0.00000000  1
+  Mg  Mg3  1  -0.00000000  0.50000000  0.00000000  1
+  Bi  Bi4  1  0.50000000  0.50000000  0.50000000  1
+  O  O5  1  0.78492166  0.22589006  0.25342725  1
+  O  O6  1  0.31714442  0.74313322  0.15416202  1
+  O  O7  1  0.15140038  0.34136153  0.74294189  1
+  O  O8  1  0.21507834  0.77410994  0.74657275  1
+  O  O9  1  0.68285558  0.25686678  0.84583798  1
+  O  O10  1  0.84859962  0.65863847  0.25705811  1

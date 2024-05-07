@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy2MgV2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92742885
+_cell_length_b   5.92742648
+_cell_length_c   5.47046950
+_cell_angle_alpha   83.02117353
+_cell_angle_beta   96.97862054
+_cell_angle_gamma   66.02488302
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2MgV2O7
+_chemical_formula_sum   'Dy2 Mg1 V2 O7'
+_cell_volume   171.19611207
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.33136400  0.33136600  0.49999900  1
+  Dy  Dy1  1  0.68479900  0.68479900  0.50000000  1
+  Mg  Mg2  1  0.21109100  0.21109000  0.00000000  1
+  V  V3  1  0.25922700  0.73980600  0.88499900  1
+  V  V4  1  0.73980600  0.25922700  0.11500100  1
+  O  O5  1  0.07146800  0.54900300  0.74741800  1
+  O  O6  1  0.39524100  0.96671600  0.72762100  1
+  O  O7  1  0.45098600  0.56580000  0.22829200  1
+  O  O8  1  0.56580000  0.45098500  0.77170700  1
+  O  O9  1  0.01408300  0.01408200  0.00000200  1
+  O  O10  1  0.54900200  0.07146900  0.25258100  1
+  O  O11  1  0.96671700  0.39524000  0.27237900  1

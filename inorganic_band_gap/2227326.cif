@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MgInNi2SbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58908958
+_cell_length_b   6.07678142
+_cell_length_c   6.19574322
+_cell_angle_alpha   53.45332089
+_cell_angle_beta   51.74025215
+_cell_angle_gamma   51.32395329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgInNi2SbO6
+_chemical_formula_sum   'Mg1 In1 Ni2 Sb1 O6'
+_cell_volume   143.00748115
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99590531  0.81288547  0.77869975  1
+  In  In1  1  0.76595595  0.60588665  0.61251643  1
+  Ni  Ni2  1  0.51326036  0.45675703  0.45185727  1
+  Ni  Ni3  1  0.10067930  0.04246184  0.03099978  1
+  Sb  Sb4  1  0.42020391  0.13248542  0.23625268  1
+  O  O5  1  0.24273539  0.88688161  0.31493536  1
+  O  O6  1  0.75481924  0.70773791  0.22302974  1
+  O  O7  1  0.70598218  0.10664546  0.33315095  1
+  O  O8  1  0.67855489  0.22637976  0.76727868  1
+  O  O9  1  0.06186960  0.45429042  0.75430288  1
+  O  O10  1  0.30860589  0.85366042  0.73579050  1

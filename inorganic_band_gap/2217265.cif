@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MgMnV2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94528501
+_cell_length_b   5.19470858
+_cell_length_c   6.71712508
+_cell_angle_alpha   113.98940774
+_cell_angle_beta   90.00088889
+_cell_angle_gamma   112.32366226
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMnV2O6
+_chemical_formula_sum   'Mg1 Mn1 V2 O6'
+_cell_volume   114.38786094
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.46799900  0.93549100  0.25002600  1
+  Mn  Mn1  1  0.98449500  0.96833900  0.95489700  1
+  V  V2  1  0.80850000  0.61656200  0.38492900  1
+  V  V3  1  0.18588000  0.37129700  0.62386300  1
+  O  O4  1  0.64417600  0.28820500  0.13088800  1
+  O  O5  1  0.35240600  0.70423800  0.90134300  1
+  O  O6  1  0.97645500  0.95243600  0.27923200  1
+  O  O7  1  0.02345000  0.04661900  0.68313400  1
+  O  O8  1  0.69599300  0.39148400  0.57034300  1
+  O  O9  1  0.31600300  0.63157800  0.42504900  1

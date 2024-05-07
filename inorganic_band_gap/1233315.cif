@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La2MgMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04326811
+_cell_length_b   6.07652721
+_cell_length_c   6.00771107
+_cell_angle_alpha   58.39203649
+_cell_angle_beta   58.30605394
+_cell_angle_gamma   58.15292132
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2MgMoO6
+_chemical_formula_sum   'La2 Mg1 Mo1 O6'
+_cell_volume   149.86513966
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.61904500  0.61200100  0.62014800  1
+  La  La1  1  0.34984100  0.35132900  0.36050400  1
+  Mg  Mg2  1  0.83579300  0.82785500  0.83355000  1
+  Mo  Mo3  1  0.02790800  0.01939000  0.03053900  1
+  O  O4  1  0.43161300  0.78954300  0.02021300  1
+  O  O5  1  0.78894300  0.03858100  0.42320200  1
+  O  O6  1  0.01807200  0.44831300  0.77362700  1
+  O  O7  1  0.65457600  0.17750900  0.96896300  1
+  O  O8  1  0.97041000  0.63687200  0.19104100  1
+  O  O9  1  0.18475100  0.96765400  0.64726200  1

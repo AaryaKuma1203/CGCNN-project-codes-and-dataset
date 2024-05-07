@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MgNi2(BiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20678829
+_cell_length_b   6.20260353
+_cell_length_c   6.20203778
+_cell_angle_alpha   55.67490697
+_cell_angle_beta   55.66773113
+_cell_angle_gamma   55.64158003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNi2(BiO3)2
+_chemical_formula_sum   'Mg1 Ni2 Bi2 O6'
+_cell_volume   151.83864519
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.91444006  0.91472452  0.91293159  1
+  Ni  Ni1  1  0.09571014  0.09596636  0.09555653  1
+  Ni  Ni2  1  0.49500035  0.49482858  0.49367562  1
+  Bi  Bi3  1  0.30087014  0.30113258  0.30003377  1
+  Bi  Bi4  1  0.68579809  0.68621298  0.68573353  1
+  O  O5  1  0.28430116  0.83521936  0.62762870  1
+  O  O6  1  0.83544207  0.62864175  0.28291632  1
+  O  O7  1  0.62899708  0.28403227  0.83380910  1
+  O  O8  1  0.15945453  0.34560505  0.71676506  1
+  O  O9  1  0.71749572  0.15922820  0.34518530  1
+  O  O10  1  0.34573965  0.71765936  0.15859148  1

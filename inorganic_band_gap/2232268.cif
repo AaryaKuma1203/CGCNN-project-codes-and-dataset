@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cs2MgMo2(O2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51777582
+_cell_length_b   7.01082594
+_cell_length_c   9.35878814
+_cell_angle_alpha   123.55305220
+_cell_angle_beta   107.14501051
+_cell_angle_gamma   90.00000102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2MgMo2(O2F3)2
+_chemical_formula_sum   'Cs2 Mg1 Mo2 O4 F6'
+_cell_volume   282.20565082
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.35635578  0.22552270  0.71271255  1
+  Cs  Cs1  1  0.64364422  0.77447730  0.28728745  1
+  Mg  Mg2  1  0.50000000  -0.00000000  0.00000000  1
+  Mo  Mo3  1  0.86344932  0.64749975  0.72689963  1
+  Mo  Mo4  1  0.13655068  0.35250025  0.27310037  1
+  O  O5  1  0.69635156  0.74801645  0.89056993  1
+  O  O6  1  0.80578164  0.25198355  0.10943007  1
+  O  O7  1  0.30364844  0.25198355  0.10943007  1
+  O  O8  1  0.19421836  0.74801645  0.89056993  1
+  F  F9  1  0.50000000  0.50000000  0.50000000  1
+  F  F10  1  0.00000000  0.50000000  0.50000000  1
+  F  F11  1  0.84684130  0.90436398  0.69368359  1
+  F  F12  1  0.15315870  0.09563702  0.30631641  1
+  F  F13  1  0.17609127  0.68553959  0.35218154  1
+  F  F14  1  0.82390873  0.31446041  0.64781846  1

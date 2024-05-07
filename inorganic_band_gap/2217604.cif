@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La2Mg(NiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56906692
+_cell_length_b   5.81962372
+_cell_length_c   5.53164284
+_cell_angle_alpha   68.87395837
+_cell_angle_beta   65.37223024
+_cell_angle_gamma   49.43208672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Mg(NiO3)2
+_chemical_formula_sum   'La2 Mg1 Ni2 O6'
+_cell_volume   144.79956985
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.70029419  0.68175714  0.75891679  1
+  La  La1  1  0.31889373  0.27685237  0.23059764  1
+  Mg  Mg2  1  0.00002785  0.99477224  0.50116368  1
+  Ni  Ni3  1  0.50128453  0.49950453  0.48673542  1
+  Ni  Ni4  1  0.00676730  0.99368704  0.00045129  1
+  O  O5  1  0.30640586  0.84149523  0.15247838  1
+  O  O6  1  0.72802653  0.08327253  0.34398994  1
+  O  O7  1  0.15127060  0.52527338  0.62077392  1
+  O  O8  1  0.70437340  0.16723759  0.84278269  1
+  O  O9  1  0.85451593  0.46819724  0.35915084  1
+  O  O10  1  0.27814008  0.90545071  0.65295940  1

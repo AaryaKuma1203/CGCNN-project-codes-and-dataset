@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr2MgZrMnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55049477
+_cell_length_b   6.55049477
+_cell_length_c   6.55049477
+_cell_angle_alpha   53.88035123
+_cell_angle_beta   53.88035123
+_cell_angle_gamma   53.88035123
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2MgZrMnO6
+_chemical_formula_sum   'Sr2 Mg1 Zr1 Mn1 O6'
+_cell_volume   170.32834189
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.31560666  0.31560666  0.31560666  1
+  Sr  Sr1  1  0.71203450  0.71203450  0.71203450  1
+  Mg  Mg2  1  0.13303945  0.13303945  0.13303945  1
+  Zr  Zr3  1  0.97167505  0.97167505  0.97167505  1
+  Mn  Mn4  1  0.50402696  0.50402696  0.50402696  1
+  O  O5  1  0.75200628  0.23825357  0.23825357  1
+  O  O6  1  0.74736394  0.27132808  0.74736394  1
+  O  O7  1  0.74736394  0.74736394  0.27132808  1
+  O  O8  1  0.27132808  0.74736394  0.74736394  1
+  O  O9  1  0.23825357  0.75200628  0.23825357  1
+  O  O10  1  0.23825357  0.23825357  0.75200628  1

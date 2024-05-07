@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La2Mg(CoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37156288
+_cell_length_b   6.33488445
+_cell_length_c   6.23683250
+_cell_angle_alpha   55.43616342
+_cell_angle_beta   55.41438478
+_cell_angle_gamma   54.58749853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Mg(CoO3)2
+_chemical_formula_sum   'La2 Mg1 Co2 O6'
+_cell_volume   157.88809051
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.68334578  0.69152128  0.69096651  1
+  La  La1  1  0.28298842  0.28416755  0.27764098  1
+  Mg  Mg2  1  0.91342084  0.91403864  0.90459082  1
+  Co  Co3  1  0.49623959  0.48894363  0.48427541  1
+  Co  Co4  1  0.07927453  0.08151666  0.07938301  1
+  O  O5  1  0.27032006  0.84485714  0.60942345  1
+  O  O6  1  0.84421317  0.61769570  0.26052987  1
+  O  O7  1  0.61434648  0.27038549  0.83524614  1
+  O  O8  1  0.71706834  0.13022893  0.35698988  1
+  O  O9  1  0.34540385  0.71408540  0.14727006  1
+  O  O10  1  0.12837895  0.35005857  0.72868488  1

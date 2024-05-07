@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_K3NaMgCr2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11337755
+_cell_length_b   6.83344574
+_cell_length_c   7.38110272
+_cell_angle_alpha   83.37852725
+_cell_angle_beta   89.99999908
+_cell_angle_gamma   116.57140918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3NaMgCr2O8
+_chemical_formula_sum   'K3 Na1 Mg1 Cr2 O8'
+_cell_volume   273.47857985
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  -0.00000000  -0.00000000  0.50000000  1
+  K  K1  1  0.73542420  0.47084741  0.16447432  1
+  K  K2  1  0.26457580  0.52915259  0.83552568  1
+  Na  Na3  1  -0.00000000  -0.00000000  0.00000000  1
+  Mg  Mg4  1  0.50000000  -0.00000000  0.00000000  1
+  Cr  Cr5  1  0.67332443  0.34664786  0.71964396  1
+  Cr  Cr6  1  0.32667557  0.65335214  0.28035604  1
+  O  O7  1  0.38306993  0.19289058  0.84978005  1
+  O  O8  1  0.80982065  0.19289058  0.84978005  1
+  O  O9  1  0.80456140  0.60912279  0.76927626  1
+  O  O10  1  0.19017935  0.80710942  0.15021995  1
+  O  O11  1  0.61693007  0.80710942  0.15021995  1
+  O  O12  1  0.19543860  0.39087721  0.23072374  1
+  O  O13  1  0.35072288  0.70144675  0.49607749  1
+  O  O14  1  0.64927712  0.29855325  0.50392251  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sr3MgFe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50657419
+_cell_length_b   3.77257479
+_cell_length_c   10.41315331
+_cell_angle_alpha   100.44217336
+_cell_angle_beta   103.55549183
+_cell_angle_gamma   89.99696138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3MgFe2O7
+_chemical_formula_sum   'Sr3 Mg1 Fe2 O7'
+_cell_volume   206.60982888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.79523709  0.68018712  0.36015850  1
+  Sr  Sr1  1  0.20476291  0.31981288  0.63984150  1
+  Sr  Sr2  1  0.50000000  0.50000000  0.00000000  1
+  Mg  Mg3  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe4  1  0.82201919  0.88784225  0.77592372  1
+  Fe  Fe5  1  0.17798081  0.11215775  0.22407628  1
+  O  O6  1  0.49110332  0.90530112  0.81103337  1
+  O  O7  1  0.50889668  0.09469988  0.18896663  1
+  O  O8  1  0.88586105  0.80075477  0.60173099  1
+  O  O9  1  0.95356369  0.40464067  0.80947121  1
+  O  O10  1  0.00000000  0.00000000  0.00000000  1
+  O  O11  1  0.04643631  0.59535933  0.19052879  1
+  O  O12  1  0.11413895  0.19924523  0.39826901  1

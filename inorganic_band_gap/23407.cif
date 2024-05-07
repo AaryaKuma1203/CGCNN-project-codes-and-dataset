@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Hg(IO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63618823
+_cell_length_b   5.77600413
+_cell_length_c   8.98609462
+_cell_angle_alpha   76.94965168
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg(IO3)2
+_chemical_formula_sum   'Hg2 I4 O12'
+_cell_volume   284.98343704
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.74843403  0.92369513  0.17307993  1
+  Hg  Hg1  1  0.24843403  0.07630487  0.82692007  1
+  I  I2  1  0.26993121  0.56945636  0.15093646  1
+  I  I3  1  0.76993121  0.43054364  0.84906354  1
+  I  I4  1  0.23246636  0.72782050  0.57240956  1
+  I  I5  1  0.73246636  0.27217950  0.42759044  1
+  O  O6  1  0.92379848  0.52216414  0.34305607  1
+  O  O7  1  0.42379848  0.47783586  0.65694393  1
+  O  O8  1  0.49895436  0.66505868  0.00839708  1
+  O  O9  1  -0.00104564  0.33494132  0.99160292  1
+  O  O10  1  0.41842051  0.69661981  0.29687654  1
+  O  O11  1  0.91842051  0.30338019  0.70312346  1
+  O  O12  1  0.93442713  0.03228967  0.41843026  1
+  O  O13  1  0.43442713  0.96771033  0.58156974  1
+  O  O14  1  0.58134401  0.17155612  0.93255280  1
+  O  O15  1  0.08134401  0.82844388  0.06744720  1
+  O  O16  1  0.57130491  0.23486499  0.25647250  1
+  O  O17  1  0.07130491  0.76513501  0.74352750  1

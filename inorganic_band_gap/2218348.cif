@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na3MgCo2SbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09669718
+_cell_length_b   6.32398508
+_cell_length_c   6.61352824
+_cell_angle_alpha   105.23840107
+_cell_angle_beta   101.16783792
+_cell_angle_gamma   121.40978861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3MgCo2SbO6
+_chemical_formula_sum   'Na3 Mg1 Co2 Sb1 O6'
+_cell_volume   192.29834718
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.10249103  0.78474022  0.47364495  1
+  Na  Na1  1  0.83374468  0.21289799  0.58522201  1
+  Na  Na2  1  0.45192203  0.58939407  0.59354613  1
+  Mg  Mg3  1  0.72680879  0.02338358  0.08955147  1
+  Co  Co4  1  0.62603910  0.40497053  0.90223793  1
+  Co  Co5  1  0.23575978  0.48552913  0.08466232  1
+  Sb  Sb6  1  0.17464174  0.95650305  0.01749140  1
+  O  O7  1  0.54487101  0.04006023  0.81415589  1
+  O  O8  1  0.06880740  0.39612233  0.28234605  1
+  O  O9  1  0.87475987  0.61390840  0.73247104  1
+  O  O10  1  0.41892757  0.88758249  0.20117637  1
+  O  O11  1  0.87633160  0.80745882  0.14895646  1
+  O  O12  1  0.27739642  0.37245015  0.81412297  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La2MgCrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45743767
+_cell_length_b   5.45741037
+_cell_length_c   5.45742618
+_cell_angle_alpha   60.80606948
+_cell_angle_beta   60.80637423
+_cell_angle_gamma   60.80602428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2MgCrO6
+_chemical_formula_sum   'La2 Mg1 Cr1 O6'
+_cell_volume   117.02368926
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.74996045  0.74995925  0.74996033  1
+  La  La1  1  0.25003955  0.25004075  0.25003967  1
+  Mg  Mg2  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr3  1  -0.00000000  0.00000000  -0.00000000  1
+  O  O4  1  0.30408667  0.75963035  0.18016438  1
+  O  O5  1  0.75963036  0.18015828  0.30409286  1
+  O  O6  1  0.18016478  0.30408968  0.75963111  1
+  O  O7  1  0.69591333  0.24036965  0.81983562  1
+  O  O8  1  0.81983522  0.69591032  0.24036889  1
+  O  O9  1  0.24036964  0.81984172  0.69590714  1

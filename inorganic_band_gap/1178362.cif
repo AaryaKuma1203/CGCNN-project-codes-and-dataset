@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.70552331
+_cell_length_b   9.70552331
+_cell_length_c   9.70552354
+_cell_angle_alpha   22.51376451
+_cell_angle_beta   22.51376451
+_cell_angle_gamma   22.51376568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyClO
+_chemical_formula_sum   'Dy2 Cl2 O2'
+_cell_volume   117.57643642
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.21677628  0.21677628  0.21677628  1
+  Dy  Dy1  1  0.78322372  0.78322372  0.78322372  1
+  Cl  Cl2  1  0.38895511  0.38895511  0.38895511  1
+  Cl  Cl3  1  0.61104489  0.61104489  0.61104489  1
+  O  O4  1  0.13692417  0.13692417  0.13692417  1
+  O  O5  1  0.86307583  0.86307583  0.86307583  1

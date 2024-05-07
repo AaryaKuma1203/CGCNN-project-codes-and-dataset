@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ReCl3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89296239
+_cell_length_b   8.27054534
+_cell_length_c   8.17957904
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReCl3O2
+_chemical_formula_sum   'Re4 Cl12 O8'
+_cell_volume   533.95558521
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.00000000  0.26126580  0.57092005  1
+  Re  Re1  1  0.50000000  0.76126580  0.92907995  1
+  Re  Re2  1  0.00000000  0.73873420  0.42907995  1
+  Re  Re3  1  0.50000000  0.23873420  0.07092005  1
+  Cl  Cl4  1  0.00000000  0.37950177  0.82200730  1
+  Cl  Cl5  1  0.50000000  0.72825089  0.20572716  1
+  Cl  Cl6  1  0.50000000  0.27174911  0.79427284  1
+  Cl  Cl7  1  0.20477651  0.50000000  0.50000000  1
+  Cl  Cl8  1  0.50000000  0.12049823  0.32200730  1
+  Cl  Cl9  1  0.29522349  0.00000000  0.00000000  1
+  Cl  Cl10  1  0.00000000  0.77174911  0.70572716  1
+  Cl  Cl11  1  0.79522349  0.50000000  0.50000000  1
+  Cl  Cl12  1  0.00000000  0.62049823  0.17799270  1
+  Cl  Cl13  1  0.00000000  0.22825089  0.29427284  1
+  Cl  Cl14  1  0.70477651  0.00000000  0.00000000  1
+  Cl  Cl15  1  0.50000000  0.87950177  0.67799270  1
+  O  O16  1  0.82908658  0.14117321  0.60507827  1
+  O  O17  1  0.67091342  0.64117321  0.89492173  1
+  O  O18  1  0.67091342  0.35882679  0.10507827  1
+  O  O19  1  0.32908658  0.35882679  0.10507827  1
+  O  O20  1  0.32908658  0.64117321  0.89492173  1
+  O  O21  1  0.17091342  0.85882679  0.39492173  1
+  O  O22  1  0.82908658  0.85882679  0.39492173  1
+  O  O23  1  0.17091342  0.14117321  0.60507827  1

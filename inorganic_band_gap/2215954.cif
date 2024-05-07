@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr2MgCdWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47591528
+_cell_length_b   6.56059041
+_cell_length_c   6.23295931
+_cell_angle_alpha   124.32664038
+_cell_angle_beta   123.89063961
+_cell_angle_gamma   85.84628406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2MgCdWO6
+_chemical_formula_sum   'Sr2 Mg1 Cd1 W1 O6'
+_cell_volume   169.84826520
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.70298500  0.38955700  0.60048000  1
+  Sr  Sr1  1  0.10250400  0.78907700  0.39952000  1
+  Mg  Mg2  1  0.44735100  0.76011100  0.00000000  1
+  Cd  Cd3  1  0.53573700  0.33815800  0.00000000  1
+  W  W4  1  0.00630700  0.02084100  0.00000000  1
+  O  O5  1  0.73100100  0.85214900  0.00000000  1
+  O  O6  1  0.14750300  0.73268900  0.00000000  1
+  O  O7  1  0.87495500  0.31465200  0.00000000  1
+  O  O8  1  0.33324800  0.08587700  0.00000000  1
+  O  O9  1  0.28398700  0.31239400  0.54071100  1
+  O  O10  1  0.74327600  0.77168300  0.45928900  1

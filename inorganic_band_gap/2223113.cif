@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba2MgFeWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89380653
+_cell_length_b   6.21860436
+_cell_length_c   6.86955662
+_cell_angle_alpha   89.19352203
+_cell_angle_beta   126.30591114
+_cell_angle_gamma   117.62012508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2MgFeWO6
+_chemical_formula_sum   'Ba2 Mg1 Fe1 W1 O6'
+_cell_volume   195.79491273
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.36586189  0.68351068  0.31662146  1
+  Ba  Ba1  1  0.54280744  0.26682887  0.72534862  1
+  Mg  Mg2  1  0.80660516  0.90138463  0.09553918  1
+  Fe  Fe3  1  0.01487365  0.50541647  0.49143338  1
+  W  W4  1  0.14747974  0.07566166  0.92646869  1
+  O  O5  1  0.45930095  0.72958633  0.74275148  1
+  O  O6  1  0.98614589  0.72889944  0.27190213  1
+  O  O7  1  0.97437641  0.24367627  0.75649263  1
+  O  O8  1  0.48287150  0.24127870  0.26789678  1
+  O  O9  1  0.98587952  0.25449813  0.26945065  1
+  O  O10  1  0.97338185  0.73384183  0.76109599  1

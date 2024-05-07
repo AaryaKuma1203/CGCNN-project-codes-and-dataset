@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CsMgV2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68681874
+_cell_length_b   6.43876908
+_cell_length_c   5.54464580
+_cell_angle_alpha   117.61046062
+_cell_angle_beta   74.71541338
+_cell_angle_gamma   95.53958236
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMgV2O5
+_chemical_formula_sum   'Cs1 Mg1 V2 O5'
+_cell_volume   173.46131570
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.24273434  0.94205285  0.57733604  1
+  Mg  Mg1  1  0.13108755  0.49256874  0.86029057  1
+  V  V2  1  0.55497878  0.32478238  0.15656792  1
+  V  V3  1  0.61041455  0.69426345  0.86132701  1
+  O  O4  1  0.47722892  0.01249879  0.04532473  1
+  O  O5  1  0.44795355  0.48703413  0.54791691  1
+  O  O6  1  0.86338842  0.32170752  0.98766405  1
+  O  O7  1  0.92992014  0.70264050  0.83873251  1
+  O  O8  1  0.39987676  0.50161963  0.04150725  1

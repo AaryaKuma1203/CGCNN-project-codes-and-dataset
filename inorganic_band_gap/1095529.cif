@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuH2ClO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45192952
+_cell_length_b   6.09053669
+_cell_length_c   6.53076958
+_cell_angle_alpha   104.42111371
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuH2ClO2
+_chemical_formula_sum   'Lu2 H4 Cl2 O4'
+_cell_volume   132.97733857
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.75000000  0.72222920  0.89729277  1
+  Lu  Lu1  1  0.25000000  0.27777080  0.10270723  1
+  H  H2  1  0.25000000  0.87448088  0.23604189  1
+  H  H3  1  0.75000000  0.12551912  0.76395811  1
+  H  H4  1  0.25000000  0.37300062  0.69387089  1
+  H  H5  1  0.75000000  0.62699938  0.30612911  1
+  Cl  Cl6  1  0.25000000  0.77513362  0.57998753  1
+  Cl  Cl7  1  0.75000000  0.22486638  0.42001247  1
+  O  O8  1  0.25000000  0.89429528  0.09311740  1
+  O  O9  1  0.75000000  0.10570472  0.90688260  1
+  O  O10  1  0.25000000  0.45800281  0.84096290  1
+  O  O11  1  0.75000000  0.54199719  0.15903710  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MgFePbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39690024
+_cell_length_b   4.39694497
+_cell_length_c   4.42283501
+_cell_angle_alpha   95.60225222
+_cell_angle_beta   84.39350792
+_cell_angle_gamma   95.37904543
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgFePbO3
+_chemical_formula_sum   'Mg1 Fe1 Pb1 O3'
+_cell_volume   84.38422813
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.23994500  0.76014100  0.24502500  1
+  Fe  Fe1  1  0.53958900  0.46046400  0.54237200  1
+  Pb  Pb2  1  0.87932600  0.12055300  0.88203900  1
+  O  O3  1  0.52842200  0.47170200  0.03475800  1
+  O  O4  1  0.52979800  0.96708900  0.53134000  1
+  O  O5  1  0.03291800  0.47005000  0.53113100  1

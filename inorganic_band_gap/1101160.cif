@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Zr3N2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05276810
+_cell_length_b   5.67636031
+_cell_length_c   10.66017241
+_cell_angle_alpha   90.36221571
+_cell_angle_beta   89.99973358
+_cell_angle_gamma   110.91809884
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3N2O3
+_chemical_formula_sum   'Zr6 N4 O6'
+_cell_volume   229.06858221
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.14418273  0.28854008  0.56588550  1
+  Zr  Zr1  1  0.14653354  0.29299232  0.93665547  1
+  Zr  Zr2  1  0.19158739  0.38312633  0.24824936  1
+  Zr  Zr3  1  0.80909278  0.61813624  0.75614694  1
+  Zr  Zr4  1  0.85886559  0.71770133  0.05986388  1
+  Zr  Zr5  1  0.86158975  0.72337376  0.43695757  1
+  N  N6  1  0.29745413  0.59496399  0.42652814  1
+  N  N7  1  0.30187811  0.60362999  0.08183705  1
+  N  N8  1  0.23744425  0.47487575  0.74430670  1
+  N  N9  1  0.70379221  0.40753178  0.92532625  1
+  O  O10  1  0.04601650  0.09192652  0.11612291  1
+  O  O11  1  0.04197177  0.08402130  0.38144653  1
+  O  O12  1  0.95356486  0.90703121  0.61188679  1
+  O  O13  1  0.95640125  0.91281826  0.88472285  1
+  O  O14  1  0.69470903  0.38955161  0.57165566  1
+  O  O15  1  0.75491610  0.50977653  0.25241038  1

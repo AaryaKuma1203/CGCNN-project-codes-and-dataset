@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MgFe2(NiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75981579
+_cell_length_b   5.75926718
+_cell_length_c   5.75865369
+_cell_angle_alpha   53.16450661
+_cell_angle_beta   53.16416936
+_cell_angle_gamma   53.15693482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgFe2(NiO3)2
+_chemical_formula_sum   'Mg1 Fe2 Ni2 O6'
+_cell_volume   113.43888168
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.70117924  0.70118408  0.70117030  1
+  Fe  Fe1  1  0.16960850  0.16952757  0.16945062  1
+  Fe  Fe2  1  0.98127439  0.98154670  0.98175928  1
+  Ni  Ni3  1  0.34348091  0.34348806  0.34355170  1
+  Ni  Ni4  1  0.51256293  0.51235871  0.51259049  1
+  O  O5  1  0.10576366  0.77011673  0.38538195  1
+  O  O6  1  0.57606844  0.92785473  0.27623692  1
+  O  O7  1  0.27601742  0.57630009  0.92796422  1
+  O  O8  1  0.77008743  0.38542345  0.10575891  1
+  O  O9  1  0.38600925  0.10596646  0.76984235  1
+  O  O10  1  0.92794784  0.27623341  0.57629325  1

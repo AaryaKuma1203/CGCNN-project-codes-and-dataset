@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Dy2CO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88759819
+_cell_length_b   3.88759819
+_cell_length_c   15.06431564
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   122.23129316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2CO5
+_chemical_formula_sum   'Dy4 C2 O10'
+_cell_volume   192.58932087
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.33541157  0.66458843  0.90677944  1
+  Dy  Dy1  1  0.66458843  0.33541157  0.09322056  1
+  Dy  Dy2  1  0.66458843  0.33541157  0.40677944  1
+  Dy  Dy3  1  0.33541157  0.66458843  0.59322056  1
+  C  C4  1  0.07380959  0.92619041  0.75000000  1
+  C  C5  1  0.92619041  0.07380959  0.25000000  1
+  O  O6  1  0.98516980  0.01483020  0.82596307  1
+  O  O7  1  0.01483020  0.98516980  0.17403693  1
+  O  O8  1  0.01483020  0.98516980  0.32596307  1
+  O  O9  1  0.98516980  0.01483020  0.67403693  1
+  O  O10  1  0.33619227  0.66380773  0.44248495  1
+  O  O11  1  0.66380773  0.33619227  0.55751505  1
+  O  O12  1  0.66380773  0.33619227  0.94248495  1
+  O  O13  1  0.33619227  0.66380773  0.05751505  1
+  O  O14  1  0.26069857  0.73930143  0.75000000  1
+  O  O15  1  0.73930143  0.26069857  0.25000000  1

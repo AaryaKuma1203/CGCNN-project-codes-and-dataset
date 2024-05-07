@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K2Co(SeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58671000
+_cell_length_b   5.61024324
+_cell_length_c   7.05734133
+_cell_angle_alpha   112.95308072
+_cell_angle_beta   90.11577141
+_cell_angle_gamma   119.79314121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Co(SeO3)2
+_chemical_formula_sum   'K2 Co1 Se2 O6'
+_cell_volume   171.37414715
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.38895200  0.19491500  0.41671700  1
+  K  K1  1  0.61104800  0.80508500  0.58328300  1
+  Co  Co2  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se3  1  0.73687100  0.36777500  0.89410400  1
+  Se  Se4  1  0.26312900  0.63222500  0.10589600  1
+  O  O5  1  0.02287100  0.27102800  0.22416800  1
+  O  O6  1  0.97712900  0.72897200  0.77583200  1
+  O  O7  1  0.97535600  0.24301400  0.78061500  1
+  O  O8  1  0.02464400  0.75698600  0.21938500  1
+  O  O9  1  0.51039000  0.75618400  0.22111100  1
+  O  O10  1  0.48961000  0.24381600  0.77888900  1

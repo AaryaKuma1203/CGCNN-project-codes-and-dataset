@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_MgAl2H4Pb2(O2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21922274
+_cell_length_b   7.69834001
+_cell_length_c   5.31670179
+_cell_angle_alpha   89.57653901
+_cell_angle_beta   100.57567733
+_cell_angle_gamma   112.45182940
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAl2H4Pb2(O2F3)2
+_chemical_formula_sum   'Mg1 Al2 H4 Pb2 O4 F6'
+_cell_volume   230.70898197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.00000000  1
+  Al  Al1  1  0.18687500  0.66085700  0.17786800  1
+  Al  Al2  1  0.81312500  0.33914300  0.82213200  1
+  H  H3  1  0.17352300  0.54843500  0.70872900  1
+  H  H4  1  0.82647700  0.45156500  0.29127100  1
+  H  H5  1  0.26117500  0.90068600  0.87345700  1
+  H  H6  1  0.73882500  0.09931400  0.12654300  1
+  Pb  Pb7  1  0.80303200  0.87717600  0.66267200  1
+  Pb  Pb8  1  0.19696800  0.12282400  0.33732800  1
+  O  O9  1  0.15451500  0.48706900  0.87150900  1
+  O  O10  1  0.84548500  0.51293100  0.12849100  1
+  O  O11  1  0.14623700  0.85241200  0.98518400  1
+  O  O12  1  0.85376300  0.14758800  0.01481600  1
+  F  F13  1  0.24419400  0.79919600  0.46957100  1
+  F  F14  1  0.75580600  0.20080400  0.53043000  1
+  F  F15  1  0.22808600  0.47601100  0.37250900  1
+  F  F16  1  0.77191400  0.52398900  0.62749100  1
+  F  F17  1  0.51152200  0.73551200  0.16677100  1
+  F  F18  1  0.48847800  0.26448800  0.83322900  1

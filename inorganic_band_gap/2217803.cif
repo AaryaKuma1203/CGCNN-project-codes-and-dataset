@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr2YMgCrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19649608
+_cell_length_b   5.88251258
+_cell_length_c   6.19633227
+_cell_angle_alpha   61.66349246
+_cell_angle_beta   56.33714405
+_cell_angle_gamma   61.66068377
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2YMgCrO6
+_chemical_formula_sum   'Sr2 Y1 Mg1 Cr1 O6'
+_cell_volume   158.41062427
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.18417200  0.31582800  0.18417200  1
+  Sr  Sr1  1  0.81582800  0.68417200  0.81582800  1
+  Y  Y2  1  0.50000000  0.50000000  0.50000000  1
+  Mg  Mg3  1  0.50000000  0.00000000  0.50000000  1
+  Cr  Cr4  1  0.00000000  0.00000000  0.00000000  1
+  O  O5  1  0.75601700  0.23219800  0.24398300  1
+  O  O6  1  0.76015300  0.23984700  0.76015300  1
+  O  O7  1  0.75619300  0.76754300  0.24380700  1
+  O  O8  1  0.24398300  0.76780200  0.75601700  1
+  O  O9  1  0.23984700  0.76015300  0.23984700  1
+  O  O10  1  0.24380700  0.23245700  0.75619300  1

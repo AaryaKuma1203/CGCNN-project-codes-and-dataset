@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr2MgFeMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17141471
+_cell_length_b   5.93939877
+_cell_length_c   5.74295619
+_cell_angle_alpha   112.79995422
+_cell_angle_beta   121.50924385
+_cell_angle_gamma   97.38337084
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2MgFeMoO6
+_chemical_formula_sum   'Sr2 Mg1 Fe1 Mo1 O6'
+_cell_volume   150.05286385
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.31162800  0.69217500  0.44780800  1
+  Sr  Sr1  1  0.68837200  0.30782500  0.55219200  1
+  Mg  Mg2  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe3  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo4  1  0.50000000  0.50000000  0.00000000  1
+  O  O5  1  0.21827700  0.26891300  0.47452800  1
+  O  O6  1  0.78172300  0.73108700  0.52547200  1
+  O  O7  1  0.15524800  0.26820500  0.93963400  1
+  O  O8  1  0.84475200  0.73179500  0.06036600  1
+  O  O9  1  0.65097200  0.17048500  0.90637800  1
+  O  O10  1  0.34902800  0.82951500  0.09362200  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba2MgNiMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38996639
+_cell_length_b   7.03503425
+_cell_length_c   7.03503357
+_cell_angle_alpha   51.76176558
+_cell_angle_beta   54.73666577
+_cell_angle_gamma   54.73664375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2MgNiMoO6
+_chemical_formula_sum   'Ba2 Mg1 Ni1 Mo1 O6'
+_cell_volume   190.51044873
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.70691411  0.79601499  0.79601499  1
+  Ba  Ba1  1  0.19758829  0.18096217  0.18096217  1
+  Mg  Mg2  1  0.37985785  0.41242065  0.41242065  1
+  Ni  Ni3  1  -0.02232600  0.02448477  0.02448477  1
+  Mo  Mo4  1  0.59886605  0.55883019  0.55883018  1
+  O  O5  1  0.24249843  0.21271217  0.77073978  1
+  O  O6  1  0.77144887  0.22603382  0.74735347  1
+  O  O7  1  0.72909007  0.23177915  0.23177915  1
+  O  O8  1  0.77144887  0.74735247  0.22603382  1
+  O  O9  1  0.24249844  0.77073978  0.21271218  1
+  O  O10  1  0.24669802  0.71366784  0.71366684  1
