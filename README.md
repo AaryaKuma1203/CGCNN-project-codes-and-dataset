@@ -6,7 +6,7 @@ This Model helps predict properties of any material by looking at its crystal st
 I have used this model to work on my own project to see how well the model can predict band gap for different types of materials and ranges of data.
 I also worked on changing certain input parameters to see how the model predictions are affected.
 
-Getting the data and filetring it:(Present in the Dataset collection and distribution file)
+Getting the data and filtering it:(Present in the Dataset collection and distribution file)
 
 Training any Machine Learning Model requires large sets of input data and hence I queried Materials Project website by using their API.
 Initially I queried the data for 20000 oxides between the band gap range of 1 - 6 eV and trained the model on it and plot its Mean Absolute Error.
