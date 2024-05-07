@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaEr2CoO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65897174
+_cell_length_b   5.71506153
+_cell_length_c   6.66671766
+_cell_angle_alpha   115.36579704
+_cell_angle_beta   105.91232865
+_cell_angle_gamma   89.99423198
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEr2CoO5
+_chemical_formula_sum   'Ba1 Er2 Co1 O5'
+_cell_volume   120.03250460
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  -0.00000572  0.00000082  -0.00000477  1
+  Er  Er1  1  0.79513281  0.29506983  0.59015352  1
+  Er  Er2  1  0.20485816  0.70492909  0.40985011  1
+  Co  Co3  1  0.49997128  0.50002791  0.00001066  1
+  O  O4  1  0.34687121  0.58827789  0.69369605  1
+  O  O5  1  0.65313633  0.41172024  0.30630597  1
+  O  O6  1  0.65307746  0.89487717  0.30604232  1
+  O  O7  1  0.34691025  0.10510825  0.69394234  1
+  O  O8  1  0.00004522  0.49998778  -0.00000019  1

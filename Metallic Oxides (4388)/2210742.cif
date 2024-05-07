@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_MgVSbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.14146971
+_cell_length_b   5.54975476
+_cell_length_c   5.54975476
+_cell_angle_alpha   106.80277047
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgVSbO4
+_chemical_formula_sum   'Mg1 V1 Sb1 O4'
+_cell_volume   92.62559810
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.29048091  0.70951909  1
+  V  V1  1  0.00000000  0.97622741  0.02377259  1
+  Sb  Sb2  1  0.50000000  0.59404078  0.40595922  1
+  O  O3  1  0.50000000  0.15149685  0.84850315  1
+  O  O4  1  0.50000000  0.83504988  0.16495012  1
+  O  O5  1  0.00000000  0.28010261  0.33573144  1
+  O  O6  1  0.00000000  0.66426856  0.71989739  1
